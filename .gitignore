@@ -4,3 +4,5 @@
 /MfcActionSample/x64
 **.*.user
 **.aps
+/packages
+/MfcActionSampleTest/x64
