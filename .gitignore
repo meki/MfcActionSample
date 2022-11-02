@@ -1,0 +1,6 @@
+/x64
+/.vs
+/.vscode
+/MfcActionSample/x64
+**.*.user
+**.aps
